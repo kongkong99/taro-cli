@@ -26,7 +26,8 @@ export default observer(() => {
       <View>Store Value: {value}
         <AtButton type='primary'
           onClick={() => { update({ value: value + 1 }); }}
-        >点击自增</AtButton>
+        >点击自增
+        </AtButton>
       </View>
     </View>
   );
