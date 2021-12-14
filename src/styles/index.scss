@@ -1,0 +1,8 @@
+@import './reset.css';
+@import './custom-variables.scss';
+@import "~taro-ui/dist/style/index.scss"; // 引入组件样式 - 方式二
+
+
+head, body {
+  font-size: 48px;
+}
