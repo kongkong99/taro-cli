@@ -8,7 +8,7 @@ taro js版本的脚手架。含有完善的基础配置
 ## 启动taro服务命令
 ```bash
 # 全局安装 taro 命令
-npm install -g @tarojs/cli
+npm install -g @tarojs/cli@3.3.14
 
 # 安装依赖
 npm install

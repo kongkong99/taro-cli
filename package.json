@@ -2,7 +2,7 @@
   "name": "taro-cli",
   "version": "1.0.0",
   "private": true,
-  "description": "",
+  "description": "taro js版本的脚手架。含有完善的基础配置",
   "templateInfo": {
     "name": "default",
     "typescript": false,
