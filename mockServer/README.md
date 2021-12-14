@@ -7,7 +7,7 @@ npm install
 
 npm start # 启动mock在线服务 port: 9000
 
-npm stop # 关闭mock在线服务
+npm run delete # 关闭mock在线服务
 ```
 ## 目录结构
 ```bash

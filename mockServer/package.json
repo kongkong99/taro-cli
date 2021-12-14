@@ -6,7 +6,6 @@
   "scripts": {
     "start": "pm2 start src/index.js --watch",
     "list": "pm2 list",
-    "stop": "pm2 stop all",
     "delete": "pm2 delete all"
   },
   "repository": {
