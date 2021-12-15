@@ -1,7 +1,7 @@
 # taro-js-cli
 taro js版本的脚手架。含有完善的基础配置
 `taro` + `taro-ui` + `scss` + `react` + `mobx` + `axios` + `mock`
-> 注：taro-ui自定义主题功能需要使用scss, taro是以750设计稿写的px（暂没有相关配置），因此设计稿要采用750px的
+> 注：taro-ui自定义主题功能需要使用scss, taro-ui是以750设计稿写的px（暂没有相关配置），因此设计稿要采用750px的
 > 1px 边框使用 1PX
 > 上拉刷新，下拉加载使用 taro 的 ScrollView 组件
 
